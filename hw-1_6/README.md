@@ -13,7 +13,7 @@
 </h3>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Screenshot-1]: images/img-1.png
-[Screenshot-2]: images/img-1.png
+[Screenshot-1]: images/1.png
+[Screenshot-2]: images/1.png
 [VIM]: https://skillicons.dev/icons?i=vim
 [Vim-url]: https://www.vim.org
