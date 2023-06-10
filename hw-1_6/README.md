@@ -14,6 +14,6 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Screenshot-1]: images/1.png
-[Screenshot-2]: images/1.png
+[Screenshot-2]: images/2.png
 [VIM]: https://skillicons.dev/icons?i=vim
 [Vim-url]: https://www.vim.org
