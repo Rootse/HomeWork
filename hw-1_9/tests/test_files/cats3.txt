@@ -1,0 +1,4 @@
+Barsik 5.0 75
+Murzik 3.5 100
+Pushok 4.2 80
+Felix fe 100
