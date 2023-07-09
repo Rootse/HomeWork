@@ -1,12 +1,13 @@
 from os import listdir, remove, rmdir
-from os.path import isfile, join, isdir
+from os.path import isfile, join, isdir, splitext
 
 
 def get_files_and_dirs(directory_path: str, file_extension: str, checkbox: bool) -> list:
     files_list = []
     dirs_list = []
     for item in listdir(directory_path):
-        if isfile(join(directory_path, item)):
+        _, extension = splitext(join(directory_path, item))
+        if isfile(join(directory_path, item)) and file_extension.replace('.', '') == file_extension.replace('.', ''):
             files_list.append(join(directory_path, item))
             continue
 
